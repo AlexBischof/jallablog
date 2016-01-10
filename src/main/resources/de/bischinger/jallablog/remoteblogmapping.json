@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "comments": {
+      "type": "nested",
+      "properties": {
+        "comment": {
+          "type": "string"
+        },
+        "age": {
+          "type": "short"
+        },
+        "stars": {
+          "type": "short"
+        },
+        "date": {
+          "type": "date"
+        }
+      }
+    }
+  }
+}

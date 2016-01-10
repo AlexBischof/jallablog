@@ -1,0 +1,10 @@
+- Input via Rest
+    - blogs with id (appendonly)
+    - csv für categories und typen
+- Intgeration
+    - Elasticsearch
+        - Updater zu mergedindex
+
+OP:
+    - Handling für ES-Ausfall
+    - bulk updates so gut wie möglich

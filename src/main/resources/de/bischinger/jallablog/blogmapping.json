@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "comment": {
+      "type": "string"
+    },
+    "age": {
+      "type": "short"
+    },
+    "stars": {
+      "type": "short"
+    },
+    "date": {
+      "type": "date"
+    }
+  }
+}
